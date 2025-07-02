@@ -1,0 +1,84 @@
+{
+    "DEL-DXB": [
+        {
+            "advice": "Considering that the current fare for the flight from DEL to DXB is below the average, and that the flight is still available only two days ahead of the departure, it is advisable for the user to book now before the fare increases or the seat gets",
+            "user_feedback": "more detail"
+        },
+        {
+            "advice": "Flight prices are likely to fluctuate over the next two days, but this could be the optimal time to book this flight as the departure date is soon. Therefore, it is recommended to book now to secure this price before the flight potentially increases in price.",
+            "user_feedback": "yes"
+        }
+    ],
+    "DEL-BOM": [
+        {
+            "advice": "Considering the cheap fare cost of 71.71 EUR compared to the average cost of 97.00 EUR, the user should book this flight soon to avoid future price increases or the risk of the flight being sold out.",
+            "user_feedback": "yes"
+        },
+        {
+            "advice": "Given the below-average price of this flight deal, the user should book now to avoid the risk of this deal increasing in price and losing money.",
+            "user_feedback": "more detail"
+        }
+    ],
+    "BOM-MAA": [
+        {
+            "advice": "As a AI language model, I don't have access to real-time information and thus, unable to provide you an accurate recommendation if the user should book the flight now or wait in this current situation. It is advisable to browse through multiple sources,",
+            "user_feedback": "more detail"
+        }
+    ],
+    "BOM-LHR": [
+        {
+            "advice": "As the comparison for real-time prices is not available, it's most likely optimal for the user to book this flight now, as the fare of 232.38 EUR already seems reasonable and the flight is departing shortly. \n\nI'd be happy",
+            "user_feedback": "more detail"
+        }
+    ],
+    "DEL-JFK": [
+        {
+            "advice": "Despite the high costs of this flight, the duration is reasonable and the departure is very soon. I would recommend booking this flight sooner rather than later, as the price will likely increase closer to the departure date.",
+            "user_feedback": "more detail"
+        }
+    ],
+    "DEL-LHR": [
+        {
+            "advice": "It is recommended that the user books this flight soon since the departure is in two days, and the real-time price comparison is unavailable, which means the price might increase or the flight might get sold out, thus resulting in a missed opportunity.",
+            "user_feedback": "yes"
+        }
+    ],
+    "DEL-MAA": [
+        {
+            "advice": "Considering that the current fare for a flight from DEL to MAA is lower than the average, at 69.76 EUR, and the flight departs in just 3 days, it is advisable to book now to secure this competitive price, as it is not",
+            "user_feedback": "yes"
+        },
+        {
+            "advice": "Considering that the current fare for a flight from DEL to MAA is lower than the average, at 69.76 EUR, and the flight departs in just 3 days, it is advisable to book now to secure this competitive price, as it is not",
+            "user_feedback": "yes"
+        },
+        {
+            "advice": "Considering that the current fare for a flight from DEL to MAA is lower than the average, at 69.76 EUR, and the flight departs in just 3 days, it is advisable to book now to secure this competitive fare, as it is not",
+            "user_feedback": "yes"
+        }
+    ],
+    "MAA-BOM": [
+        {
+            "advice": "It is recommended that the user books this flight soon since the departure is in 1 day and the current price of 78.73 EUR is likely the lowest it will be before the flight takes off.",
+            "user_feedback": "yes"
+        }
+    ],
+    "BLR-COK": [
+        {
+            "advice": "Based on the provided information, it is suggested the user books this flight as the price remains competitive, there is no significant savings indicated by waiting, and the flight is soon to depart.",
+            "user_feedback": "yes"
+        }
+    ],
+    "AMD-COK": [
+        {
+            "advice": "I am unable to provide a confident recommendation of whether the user should book this flight now or wait and continue to monitor the flight price. This is because there are no comparable flights to reference the 93.80 EUR price against. Monitoring the price of the",
+            "user_feedback": "yes"
+        }
+    ],
+    "DEL-TRV": [
+        {
+            "advice": "Based on the provided information, it is suggested that the user books this flight rather than waiting. This is because the current price of 109.74 EUR is unlikely to get any cheaper in the next 4 days, and waiting could result in the user missing",
+            "user_feedback": "yes"
+        }
+    ]
+}

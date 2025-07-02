@@ -1,0 +1,5 @@
+requests
+python-dotenv
+cohere
+colorama
+streamlit
